@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Music-master-radio-desktop", "Music-master-radio-desktop\Music-master-radio-desktop.csproj", "{CABB4053-93DC-418D-B325-56A41568F237}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MusicMaster-radio-setup", "MusicMaster-radio-setup\MusicMaster-radio-setup.vdproj", "{45B825E7-4B00-4007-BC3B-F1BC8A4A6563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABB4053-93DC-418D-B325-56A41568F237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABB4053-93DC-418D-B325-56A41568F237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABB4053-93DC-418D-B325-56A41568F237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABB4053-93DC-418D-B325-56A41568F237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B825E7-4B00-4007-BC3B-F1BC8A4A6563}.Debug|Any CPU.ActiveCfg = Debug
+		{45B825E7-4B00-4007-BC3B-F1BC8A4A6563}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B4A958-320A-4447-B6C4-77EB30077918}
+	EndGlobalSection
+EndGlobal
